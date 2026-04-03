@@ -49,7 +49,7 @@ O HairDay é uma aplicação web que permite agendar horários para cortes de ca
 
    ```bash
    git clone https://github.com/FernandoCyber3/HairDay
-   cd HairDayReact
+   cd HairDay
    ```
 
 2. **Instale as dependências**:
