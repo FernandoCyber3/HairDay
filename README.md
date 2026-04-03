@@ -48,7 +48,7 @@ O HairDay é uma aplicação web que permite agendar horários para cortes de ca
 1. **Clone o repositório**:
 
    ```bash
-   git clone 
+   git clone https://github.com/FernandoCyber3/HairDay
    cd HairDayReact
    ```
 
